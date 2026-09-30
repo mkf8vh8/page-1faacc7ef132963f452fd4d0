@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--paoluz-gh8iz134bzha.com/sitemap.xml
